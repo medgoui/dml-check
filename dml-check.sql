@@ -1,8 +1,8 @@
 INSERT INTO Product
-VALUES ('P01','Samsung Galaxy S20','Smatphone',3299);
+VALUES ('P01','Samsung Galaxy S20',3299,'Smartphone');
 
 INSERT INTO Product
-VALUES ('P02','ASUS Notebook','PC',4599);
+VALUES ('P02','ASUS Notebook',4599,'PC');
 
 INSERT INTO Customer
 VALUES ('C01','ALI','71321009');
